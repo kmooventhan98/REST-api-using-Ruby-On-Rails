@@ -22,6 +22,7 @@ group :development, :test do
 end
 
 group :development do
+  gem 'faker'
   gem 'listen', '~> 3.2'
   gem 'mysql2'
   gem 'spring'
